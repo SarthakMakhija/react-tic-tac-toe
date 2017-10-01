@@ -7,3 +7,6 @@ npm run dev
 
 ## Run the tests
 npm run test
+
+![Game In Progress](https://github.com/SarthakMakhija/react-tic-tac-toe/blob/master/game_in_progress.png)
+![Game Over](https://github.com/SarthakMakhija/react-tic-tac-toe/blob/master/game_over.png)
