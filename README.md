@@ -8,6 +8,9 @@ npm run dev
 ## Run the tests
 npm run test
 
+## References
+https://reactjs.org/tutorial/tutorial.html
+
 ## Screenshots
 ![Game In Progress](https://github.com/SarthakMakhija/react-tic-tac-toe/blob/master/game_in_progress.png)
 ![Game Over](https://github.com/SarthakMakhija/react-tic-tac-toe/blob/master/game_over.png)
