@@ -1,5 +1,5 @@
 # react-tic-tac-toe
-Sample project to learn react with unit tests using chai, mocha, enzyme and sinon
+Sample project to learn ReactJS with unit tests using chai, mocha, enzyme and sinon.
 
 ## Run the project
 npm install  
